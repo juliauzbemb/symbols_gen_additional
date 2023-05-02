@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a92bupaasy5apofl?svg=true)](https://ci.appveyor.com/project/juliauzbemb/symbols-gen-additional)
